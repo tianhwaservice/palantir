@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/palantir/static/css/main.70d561ec.css",
+    "main.js": "/palantir/static/js/main.58c8331c.js",
+    "index.html": "/palantir/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.70d561ec.css",
+    "static/js/main.58c8331c.js"
+  ]
+}
